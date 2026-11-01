@@ -6,7 +6,7 @@ This project focuses on analyzing Ecommerce sales data using Microsoft Power BI.
 
 ## Dashboard Preview
 
-![Ecommerce Sales Dashboard](Screenshot/ecommerce_dashboard.png)
+![Ecommerce Sales Dashboard](ecommerce_dashboard.png)
 
 ## Tools & Technologies Used
 
