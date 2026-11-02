@@ -44,7 +44,7 @@ This project focuses on analyzing Ecommerce sales data using Microsoft Power BI.
 ## Project Files
 
 * Dashboard: Power BI ('Ecommerce_Sales_Dashboard.pbix') file.
-* Dataset: Original sales dataset (`ecommerce_Orders.csv`, `ecommerce_Details.csv').
+* Dataset: Original sales dataset ('ecommerce_Orders.csv', `ecommerce_Details.csv').
 * Screenshot: Dashboard preview ('ecommerce_dashboard.png').
 
 ## Purpose
